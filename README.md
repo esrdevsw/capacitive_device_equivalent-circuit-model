@@ -1,0 +1,2 @@
+# capacitive_device_equivalent-circuit-model
+Highlights • A capacitive device was manufactured to study volumetric changes of hydride beds.  • Electrical a.c. measurements are performed in parallel with hydrogen concentration.  • Physical parameters are obtained through a simple equivalent circuit model.  • The device was successfully calibrated for the hydride of the metallic alloy LaNi5.  • Porosity and agglomeration effects are also observable with the device.
