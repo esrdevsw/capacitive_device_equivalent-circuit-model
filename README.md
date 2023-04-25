@@ -2,7 +2,7 @@
 
 Through measurements of electrical resistance and capacitance in AC, we can evaluate the alterations in porosity and volumetric expansion of very small amounts of material (~ 0.1 g) as functions of hydrogen concentration. Observations of global sample resistivity permit the qualitative evaluation of changes of powder packing and grain mobility. To obtain the physical parameters of the materials, we propose an equivalent circuit with a complex impedance function developed from the internal geometry of the device. The circuit has been calibrated with three different conductive metallic alloys and tested successfully in the hydride of LaNi5 on samples free of stresses.
 
-Ribeiro, E.D.S., 2016. Método e instrumentação de caracterização de materiais sólidos aplicáveis no armazenamento de hidrogénio (Doctoral dissertation).
+Ribeiro, E.S., 2016. Método e instrumentação de caracterização de materiais sólidos aplicáveis no armazenamento de hidrogénio (Doctoral dissertation).
 
 URI: 	http://hdl.handle.net/10316/29604
 
